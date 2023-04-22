@@ -1,0 +1,15 @@
+D:\Kent\College\2nd Year\dotNET\treeDepth\bin\Debug\net7.0\treeDepth.exe
+D:\Kent\College\2nd Year\dotNET\treeDepth\bin\Debug\net7.0\treeDepth.deps.json
+D:\Kent\College\2nd Year\dotNET\treeDepth\bin\Debug\net7.0\treeDepth.runtimeconfig.json
+D:\Kent\College\2nd Year\dotNET\treeDepth\bin\Debug\net7.0\treeDepth.dll
+D:\Kent\College\2nd Year\dotNET\treeDepth\bin\Debug\net7.0\treeDepth.pdb
+D:\Kent\College\2nd Year\dotNET\treeDepth\obj\Debug\net7.0\treeDepth.csproj.AssemblyReference.cache
+D:\Kent\College\2nd Year\dotNET\treeDepth\obj\Debug\net7.0\treeDepth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kent\College\2nd Year\dotNET\treeDepth\obj\Debug\net7.0\treeDepth.AssemblyInfoInputs.cache
+D:\Kent\College\2nd Year\dotNET\treeDepth\obj\Debug\net7.0\treeDepth.AssemblyInfo.cs
+D:\Kent\College\2nd Year\dotNET\treeDepth\obj\Debug\net7.0\treeDepth.csproj.CoreCompileInputs.cache
+D:\Kent\College\2nd Year\dotNET\treeDepth\obj\Debug\net7.0\treeDepth.dll
+D:\Kent\College\2nd Year\dotNET\treeDepth\obj\Debug\net7.0\refint\treeDepth.dll
+D:\Kent\College\2nd Year\dotNET\treeDepth\obj\Debug\net7.0\treeDepth.pdb
+D:\Kent\College\2nd Year\dotNET\treeDepth\obj\Debug\net7.0\treeDepth.genruntimeconfig.cache
+D:\Kent\College\2nd Year\dotNET\treeDepth\obj\Debug\net7.0\ref\treeDepth.dll
