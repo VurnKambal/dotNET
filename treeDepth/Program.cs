@@ -1,7 +1,7 @@
 ﻿
 public class Branch
 {
-    int maxDepth = 0;
+    int maxDepth = 1;
 
 
     List<Branch> branches;
