@@ -16,8 +16,8 @@ public class Branch
         this.branches = new List<Branch> { };
     }
 
-    // currentDepth defaults to 0 from the caller to its lowest node, the maxDepth 
-    public int findDepth(int currentDepth = 0)
+    // currentDepth defaults to 1 from the caller to its lowest node, the maxDepth 
+    public int findDepth(int currentDepth = 1)
     {
         if (this.branches != null)
         {
@@ -37,7 +37,7 @@ class Kent
     // Find the depth of the tree starting from the rootNode
     static void Main(string[] args)
     {
-        int depth = 0;
+        int depth = 1;
         Branch node1 = new Branch();
         Branch node2 = new Branch();
         Branch node3 = new Branch(new List<Branch> { node1 });
