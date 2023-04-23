@@ -1,0 +1,15 @@
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\obj\Debug\net7.0\clockHandAngle.csproj.AssemblyReference.cache
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\obj\Debug\net7.0\clockHandAngle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\obj\Debug\net7.0\clockHandAngle.AssemblyInfoInputs.cache
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\obj\Debug\net7.0\clockHandAngle.AssemblyInfo.cs
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\obj\Debug\net7.0\clockHandAngle.csproj.CoreCompileInputs.cache
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\bin\Debug\net7.0\clockHandAngle.exe
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\bin\Debug\net7.0\clockHandAngle.deps.json
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\bin\Debug\net7.0\clockHandAngle.runtimeconfig.json
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\bin\Debug\net7.0\clockHandAngle.dll
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\bin\Debug\net7.0\clockHandAngle.pdb
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\obj\Debug\net7.0\clockHandAngle.dll
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\obj\Debug\net7.0\refint\clockHandAngle.dll
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\obj\Debug\net7.0\clockHandAngle.pdb
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\obj\Debug\net7.0\clockHandAngle.genruntimeconfig.cache
+D:\Kent\College\2nd Year\dotNET\clockHandAngle\obj\Debug\net7.0\ref\clockHandAngle.dll

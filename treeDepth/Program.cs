@@ -13,8 +13,7 @@ public class Branch
 
     public Branch()
     {
-        this.branches = new List<Branch> { }
-        ;
+        this.branches = new List<Branch> { };
     }
 
     // currentDepth defaults to 0 from the caller to its lowest node, the maxDepth 
